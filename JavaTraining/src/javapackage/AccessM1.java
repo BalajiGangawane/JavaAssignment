@@ -7,7 +7,7 @@ public class AccessM1 {
 	private int d=40;
 	
 	/*
-	 * within class
+	 * within class*/
 	public static void main(String[] args)
 	{
 		AccessM1 obj=new AccessM1();
@@ -16,7 +16,7 @@ public class AccessM1 {
 		System.out.println(obj.c);
 		System.out.println(obj.d);
 		
-	}*/
+	}
 	
 
 }

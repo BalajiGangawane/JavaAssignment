@@ -12,11 +12,11 @@ public class StringNotfoundException {
 	{
 		System.out.println(n);
 	}
-	System.out.println("string not found");
-	String str2="Balaji";
+	/*System.out.println("string not found");
+	String str2="Balaji";*/
 	try
 	{	
-	System.out.println(str2.charAt(6));
+	System.out.println(str.charAt(6));
 	}
 	catch(StringIndexOutOfBoundsException a)
 	{
